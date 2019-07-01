@@ -1,6 +1,6 @@
 # student-drop-out
 
-"Student Drop Out" is a Python based console application to calculate the probability of dropout of any student.
+<b>"Student Drop Out"</b> is a Python based console application to calculate the probability of dropout of any student.
 
 It's also the very first project I did with Python. Hence, there are definitely many approaches which will be considered novice.
 
@@ -8,4 +8,4 @@ The sole purpose of this project was to help finding out the possible dropouts o
 
 *************************
 
-"CSVReader" is a Java based console application intended to normalize the available .csv files, which means to clear out unnecessary false inputs and garbabe entries.
+<b>"CSVReader"</b> is a Java based console application intended to normalize the available .csv files, which means to clear out unnecessary false inputs and garbabe entries.
